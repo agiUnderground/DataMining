@@ -1,2 +1,5 @@
 selenium
 lxml
+hug
+psycopg2
+peewee
