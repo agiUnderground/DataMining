@@ -2,9 +2,12 @@ import hug
 from hug.redirect import *
 from snap.models import *
 from io import StringIO
+import sys
 import csv
 
 hug.API(__name__).http.output_format = hug.output_format.text
+
+api = sys.modules[__name__]
 
 
 @hug.get('/jobs/{location}')

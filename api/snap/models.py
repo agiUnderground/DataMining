@@ -21,6 +21,7 @@ database = PooledPostgresqlExtDatabase(POSTGRES_DB_NAME,
                                        stale_timeout=300)  # 5 min
 
 logger = logging.getLogger('snap.models')
+logger.setLevel(logging.ERROR)
 
 
 class Jobs(peewee.Model):

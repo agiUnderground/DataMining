@@ -4,8 +4,8 @@ Australia Marketing Manager,Sales & Marketing,Regular,Sydney
 Business Marketer,Sales & Marketing,Regular,Los Angeles
 Media Planner/Buyer,Sales & Marketing,Regular,Los Angeles
 Production Pipeline Supervisor,Sales & Marketing,Regular,Los Angeles
-Assistant Story Editor (Part-Time),Content,Regular,New York
 Assistant Story Editor (Part-Time),Content,Regular,London
+Assistant Story Editor (Part-Time),Content,Regular,New York
 "Audience Development, Shows",Content,Fixed-term,Los Angeles
 European Business Development Manager,Content,Regular,London
 "Producer, News",Content,Regular,Los Angeles
@@ -24,40 +24,40 @@ AV Deployment Engineer,Information Technology,Regular,London
 Backend Software Engineer,Camera Platform,Regular,Los Angeles
 Data Engineer,Engineering,Regular,Los Angeles
 Friending Backend Software Engineering Manager,Engineering,Regular,Seattle
-Front End Software Engineer,Camera Platform,Regular,Los Angeles
 Front End Software Engineer,Engineering,Regular,Los Angeles
-Information Security Engineer,Engineering,Regular,Los Angeles
+Front End Software Engineer,Camera Platform,Regular,Los Angeles
 Information Security Engineer,Engineering,Regular,Switzerland
 Information Security Engineer,Engineering,Regular,San Francisco
+Information Security Engineer,Engineering,Regular,Los Angeles
 Interactive Engineer,Camera Platform,Regular,Los Angeles
 iOS Engineer,Engineering,Regular,Los Angeles
 "Manager, Software Engineering",Engineering,Regular,Los Angeles
 "Manager, Software Engineering",Engineering,Regular,Seattle
 Privacy Engineer,Engineering,Regular,Los Angeles
-QA Engineer,Engineering,Regular,Seattle
 QA Engineer,Engineering,Regular,Los Angeles
 QA Engineer,Engineering,Regular,New York
+QA Engineer,Engineering,Regular,Seattle
 "QA Engineer, Automation",Camera Platform,Regular,Los Angeles
-Release Engineer,Camera Platform,Regular,Los Angeles
 Release Engineer,Engineering,Regular,Los Angeles
+Release Engineer,Camera Platform,Regular,Los Angeles
 Salesforce Administrator,Sales & Marketing,Regular,Los Angeles
 Salesforce Developer,Sales & Marketing,Regular,Los Angeles
 Security Awareness Technical Program Manager,Engineering,Regular,Los Angeles
-"Security Engineer, Detection & Response",Engineering,Regular,Los Angeles
 "Security Engineer, Detection & Response",Engineering,Regular,Switzerland
+"Security Engineer, Detection & Response",Engineering,Regular,Los Angeles
 "Security Engineer, Infrastructure Protection",Engineering,Regular,Seattle
-"Security Engineer, Infrastructure Protection",Engineering,Regular,Switzerland
 "Security Engineer, Infrastructure Protection",Engineering,Regular,Los Angeles
+"Security Engineer, Infrastructure Protection",Engineering,Regular,Switzerland
 "Security Engineer, Spam & Abuse",Engineering,Regular,Los Angeles
 Security Technical Program Manager,Engineering,Regular,Los Angeles
 Senior Android Engineer,Engineering,Regular,Mountain View
 Senior iOS Engineer,Engineering,Regular,Mountain View
 "Senior Software Engineer, Enterprise Web Applications",Engineering,Regular,Los Angeles
-Software Engineer,Engineering,Regular,New York
-Software Engineer,Engineering,Regular,Los Angeles
-Software Engineer,Engineering,Regular,Seattle
-Software Engineer,Engineering,Regular,London
 Software Engineer,Engineering,Regular,Lehi
+Software Engineer,Engineering,Regular,Seattle
+Software Engineer,Engineering,Regular,New York
+Software Engineer,Engineering,Regular,London
+Software Engineer,Engineering,Regular,Los Angeles
 "Software Engineer, App Hardening",Engineering,Regular,Switzerland
 "Software Engineer, C++",Camera Platform,Regular,Los Angeles
 "Software Engineer, Computer Vision",Camera Platform,Regular,Los Angeles
@@ -69,32 +69,31 @@ Software Engineer,Engineering,Regular,Lehi
 Software Engineer - University Grad 2018,Engineering,Regular,Los Angeles
 System Development Operations Engineer,Engineering,Regular,Los Angeles
 Systems Engineer,Information Technology,Regular,Los Angeles
-Technical Lead,Bitmoji,Regular,Toronto
 Technical Lead,Engineering,Regular,Los Angeles
+Technical Lead,Bitmoji,Regular,Toronto
 Technical Program Manager,Engineering,Regular,Los Angeles
 Technical Writer,Engineering,Regular,Los Angeles
 Finite Element Analysis Engineer (Contract),Spectacles,Agency Contractor,Los Angeles
 QA Engineer (Contract),Engineering,Agency Contractor,Los Angeles
 Accounting Manager,Finance & Accounting,Regular,Ukraine
-Financial Operations Analyst,Finance & Accounting,Regular,Los Angeles
 "Senior Accountant, Revenue",Finance & Accounting,Regular,Los Angeles
 "Senior Accountant, Technical Reporting",Finance & Accounting,Regular,Los Angeles
-"Senior Financial Analyst, Sales Finance",Finance & Accounting,Regular,Chicago
 "Senior Financial Analyst, Sales Finance",Finance & Accounting,Regular,Sydney
+"Senior Financial Analyst, Sales Finance",Finance & Accounting,Regular,Chicago
 "Senior Manager, Tax Accounting & Compliance",Finance & Accounting,Regular,Los Angeles
 Growth Marketing Manager,Growth,Regular,Los Angeles
-Council Facilitator (Part-Time),Human Resources,Regular,Sydney
+Council Facilitator (Part-Time),Human Resources,Regular,Toronto
 Council Facilitator (Part-Time),Human Resources,Regular,Israel
 Council Facilitator (Part-Time),Human Resources,Regular,Dubai
-Council Facilitator (Part-Time),Human Resources,Regular,Toronto
+Council Facilitator (Part-Time),Human Resources,Regular,Sydney
 "Director, Human Resources",Human Resources,Regular,Los Angeles
 HR Generalist,Human Resources,Regular,New York
 Senior HR Team Advisor,Human Resources,Regular,Los Angeles
 AV Escalation Technician,Information Technology,Regular,New York
 AV Technician,Information Technology,Regular,Los Angeles
 IT Applications Engineer,Information Technology,Regular,Los Angeles
-IT Infrastructure Builds Technician,Information Technology,Regular,London
 IT Infrastructure Builds Technician,Information Technology,Regular,Los Angeles
+IT Infrastructure Builds Technician,Information Technology,Regular,London
 Network Engineer,Information Technology,Regular,Los Angeles
 Technical Program Manager,Information Technology,Regular,Los Angeles
 "Country Consultant, India (Contract)",Language Ambassador Program,Independent Contractor,Remote
@@ -114,10 +113,10 @@ Employment Counsel,Legal,Regular,Los Angeles
 "Product Counsel, Placed",Legal,Regular,Seattle
 "Senior Counsel, Revenue & Marketing",Legal,Regular,Los Angeles
 Stock Plan Administrator,Legal,Regular,Los Angeles
-Measurement Lead,Revenue Operations,Regular,New York
-Measurement Lead,Revenue Operations,Regular,Sydney
 Measurement Lead,Revenue Operations,Regular,Dubai
 Measurement Lead,Revenue Operations,Regular,San Francisco
+Measurement Lead,Revenue Operations,Regular,New York
+Measurement Lead,Revenue Operations,Regular,Sydney
 Senior Marketing Science Analyst,Revenue Operations,Regular,New York
 Ad Review Specialist,Customer Operations,Regular,Los Angeles
 Product Quality Analyst,Customer Operations,Regular,Los Angeles
@@ -127,8 +126,8 @@ Reporting & Insights Analyst,Customer Operations,Regular,Los Angeles
 Senior Ad Review Specialist,Customer Operations,Regular,London
 Senior Ads Technical Operations Specialist,Customer Operations,Regular,Los Angeles
 Senior App Support Specialist,Customer Operations,Regular,Los Angeles
-Senior Business Support Specialist,Customer Operations,Regular,Los Angeles
 Senior Business Support Specialist,Customer Operations,Regular,London
+Senior Business Support Specialist,Customer Operations,Regular,Los Angeles
 Senior Product Quality Analyst,Customer Operations,Regular,Los Angeles
 Vendor Operations Program Manager,Customer Operations,Regular,Los Angeles
 Trust & Safety Content Review Associate (Contract),Customer Operations,Agency Contractor,Los Angeles
@@ -146,23 +145,23 @@ Research Engineer,Research,Regular,Los Angeles
 "Research Engineer, Computer Vision",Camera Platform,Regular,Los Angeles
 "Research Engineer, Machine Learning",Camera Platform,Regular,Los Angeles
 "Research, New Ph.D. Grad/Post Doctorate",Research,Regular,Los Angeles
+Research Scientist,Research,Regular,Seattle
 Research Scientist,Research,Regular,San Francisco
 Research Scientist,Research,Regular,Los Angeles
-Research Scientist,Research,Regular,Seattle
 Pricing & Yield Management Analyst,Revenue Operations,Regular,Los Angeles
 "Pricing & Yield Manager, Strategy and Implementation",Revenue Operations,Regular,Los Angeles
-Account Executive,Sales & Marketing,Regular,Hamburg
-Account Executive,Sales & Marketing,Regular,Toronto
 Account Executive,Sales & Marketing,Regular,Paris
 Account Executive,Sales & Marketing,Regular,New York
+Account Executive,Sales & Marketing,Regular,Hamburg
+Account Executive,Sales & Marketing,Regular,Toronto
 Account Executive,Sales & Marketing,Regular,London
 Account Manager,Sales & Marketing,Regular,Hamburg
 Account Manager,Sales & Marketing,Regular,London
 Account Manager,Sales & Marketing,Regular,San Francisco
 Account Specialist,Sales & Marketing,Regular,Los Angeles
-Ad Operations Associate,Ad Operations,Regular,New York
-Ad Operations Associate,Ad Operations,Regular,Dubai
 Ad Operations Associate,Ad Operations,Regular,Paris
+Ad Operations Associate,Ad Operations,Regular,Dubai
+Ad Operations Associate,Ad Operations,Regular,New York
 Ad Operations Coordinator,Ad Operations,Regular,New York
 Ad Operations Specialist,Ad Operations,Regular,Amsterdam
 Creative Strategist,Sales & Marketing,Regular,Hamburg
@@ -183,7 +182,6 @@ Residential Security Officer Supervisor,Security,Regular,Los Angeles
 Security Lead,Security,Regular,Los Angeles
 Senior Lead Security Officer,Security,Regular,Los Angeles
 Workplace Services Operator,Security,Regular,Los Angeles
-Strategy Analyst,Strategy,Regular,Los Angeles
 Associate Talent Sourcer (Contract),Talent Acquisition,Agency Contractor,Los Angeles
 Recruiting Coordinator (Contract),Talent Acquisition,Agency Contractor,Los Angeles
 Senior Recruiting Operations Specialist (Contract),Talent Acquisition,Agency Contractor,Los Angeles
